@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farouqshina
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Tableau, PowerBI, SQL and Python 
+- 🧰 I’m proficient in Ms Excel, Tableau, PowerBI, SQL and Python 
 - 💞️ I’m looking to collaborate on Analytics project using the tools above.
 - 📫 You can reach me via my email: shinafarouq@gmail.com or 18-40ia018@students.unilorin.edu.ng
 
